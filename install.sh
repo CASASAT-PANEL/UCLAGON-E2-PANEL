@@ -3,7 +3,6 @@ echo "################ UCLAGON-E2-PANEL #################"
 echo "############ KARIM&SAID #################"
 #!/bin/sh
 #
-wget -O /tmp/enigma2-plugin-softcams-ncam_V14.9-r0_all.ipk "https://files.catbox.moe/ep9fes.ipk"
 
 wget -O /usr/lib/enigma2/python/Plugins/Extensions/UCLAGON-E2-PANEL "https://raw.githubusercontent.com/CASASAT-PANEL/UCLAGON-E2-PANEL/main/__init__.py"
 
