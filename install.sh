@@ -16,7 +16,7 @@ wget -O /usr/lib/enigma2/python/Plugins/Extensions/UCLAGON-E2-PANEL "https://git
 wget -O /usr/lib/enigma2/python/Plugins/Extensions/UCLAGON-E2-PANEL "https://github.com/CASASAT-PANEL/UCLAGON-E2-PANEL/raw/main/plugin.pyc"
 
 wget -O /usr/lib/enigma2/python/Plugins/Extensions/UCLAGON-E2-PANEL "https://files.catbox.moe/j4pto1.png"
-opkg update && opkg install --force-overwrite /tmp/*.ipk
+
 
 echo ""
 cd ..
